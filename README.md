@@ -9,10 +9,10 @@ The tests will cover the main functionalities in the <a href="http://165.227.93.
 
 ## Environment Setup
 **Prerequisites:** 
+* JDK
 * Maven 
-* Chrome webdriver
-* Update the driver in the root folder with the version of the browser on which you want to run the tests.
-
+* Junit
+* Rest Assured
 
 ## How to run?
 
